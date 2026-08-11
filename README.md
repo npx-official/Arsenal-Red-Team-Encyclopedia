@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=6FFFE0&center=true&vCenter=true&width=700&lines=Arsenal+%7C+Offensive+Security+Encyclopedia;🔍+250%2B+Techniques+%7C+150%2B+Commands;12+Languages+Supported;OSCP+%7C+CTF+%7C+Red+Team+Ready" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=6FFFE0&center=true&vCenter=true&width=700&lines=Arsenal+%7C+Offensive+Security+Encyclopedia;250%2B+Techniques+%7C+150%2B+Commands;12+Languages+Supported;OSCP+%7C+CTF+%7C+Red+Team+Ready" alt="Typing SVG" />
 </div>
 
 <br>
@@ -233,7 +233,7 @@ Contributions are welcome! Whether it's fixing a typo, adding a new technique, o
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=6FFFE0&center=true&vCenter=true&width=600&lines=⭐+Star+the+repo+if+you+find+it+useful!;🐛+Report+issues;💡+Suggest+features;📚+Contribute+knowledge" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=6FFFE0&center=true&vCenter=true&width=600&lines=Star+the+repo+if+you+find+it+useful!;Report+issues;+Suggest+features;Contribute+knowledge" alt="Typing SVG" />
 </div>
 
 <br>
