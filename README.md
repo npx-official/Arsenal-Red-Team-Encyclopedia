@@ -5,15 +5,16 @@
 <p align="center">
   <a href="https://npx-official.github.io/projects/arsenal"><img src="https://img.shields.io/badge/🌐-Live_Demo-6fffe0?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia"><img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/stargazers"><img src="https://img.shields.io/github/stars/npx-official/Arsenal-Red-Team-Encyclopedia?style=for-the-badge&color=gold&logo=github"/></a>
-  <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/forks"><img src="https://img.shields.io/github/forks/npx-official/Arsenal-Red-Team-Encyclopedia?style=for-the-badge&color=6fffe0&logo=github"/></a>
+  <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/stargazers"><img src="https://img.shields.io/github/stars/npx-official/Arsenal-Red-Team-Encyclopedia?style=for-the-badge&color=gold"/></a>
+  <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/forks"><img src="https://img.shields.io/github/forks/npx-official/Arsenal-Red-Team-Encyclopedia?style=for-the-badge&color=6fffe0"/></a>
   <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/blob/main/LICENSE"><img src="https://img.shields.io/badge/📜-MIT_License-6fffe0?style=for-the-badge"/></a>
 </p>
 
 <br>
 
+<!-- ✅ تم إصلاح الكود الخاص بـ Typing SVG باستخدام النمط الذي يعمل معك -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6FFFE0&center=true&vCenter=true&width=600&lines=⚡+Offensive+Security+Encyclopedia;🔍+250%2B+Techniques;💻+150%2B+Commands;🌍+12+Languages+Supported;🎯+OSCP+%7C+CTF+%7C+Red+Team+Ready" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=6FFFE0&center=true&vCenter=true&width=600&lines=⚡+Offensive+Security+Encyclopedia;🔍+250%2B+Techniques;💻+150%2B+Commands;🌍+12+Languages+Supported;🎯+OSCP+%7C+CTF+%7C+Red+Team+Ready" alt="Typing SVG" />
 </div>
 
 <br>
@@ -143,52 +144,42 @@ Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducti
 
 ## 🛠️ Key Features
 
-<table align="center">
-  <tr>
-    <td align="center"><b>📂</b><br>Collapsible Sections</td>
-    <td align="center"><b>🔍</b><br>Advanced Search</td>
-    <td align="center"><b>🌍</b><br>12 Languages</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎯</b><br>Interactive Filtering</td>
-    <td align="center"><b>📌</b><br>Bookmarks</td>
-    <td align="center"><b>⌨️</b><br>Command Palette (Ctrl+K)</td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3"><b>📋</b><br>Copy-to-Clipboard for All Commands</td>
-  </tr>
-</table>
+| Feature | Description |
+|---------|-------------|
+| **Collapsible Sections** | All knowledge modules are toggleable for easy navigation |
+| **Advanced Search** | Global search across all techniques, tools, and commands |
+| **Multi-language Support** | UI available in 12 languages (English, Arabic, French, etc.) |
+| **Interactive Filtering** | Filter content by category (Recon, Web, AD, Cloud, etc.) |
+| **Bookmarks** | Save and organize important sections |
+| **Command Palette** | Quick jump to any section (Ctrl+K) |
+| **Copy-to-Clipboard** | One-click copy for all code blocks and commands |
 
 ---
 
 ## 📊 Content Statistics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📖-250%2B_Techniques-6fffe0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💻-150%2B_Commands-a78bfa?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔗-12_Attack_Chains-6fffe0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📚-17_Knowledge_Domains-a78bfa?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌍-12_Languages-6fffe0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/♾️-Infinite_Payloads-a78bfa?style=for-the-badge"/>
-</p>
+| Metric | Value |
+|--------|-------|
+| **Techniques** | 250+ |
+| **Commands** | 150+ |
+| **Attack Chains** | 12 |
+| **Knowledge Domains** | 17 |
+| **Languages Supported** | 12 |
+| **Payload Combinations** | ∞ |
 
 ---
 
 ## 🎯 Who Is This For?
 
-<div align="center">
-
 | Role | How Arsenal Helps |
-|:---:|:---|
-| <b>🛡️ Penetration Testers</b> | Quick reference for enumeration, exploitation, and privilege escalation |
-| <b>🏆 CTF Players</b> | Comprehensive command library and methodology guidance |
-| <b>🎯 Bug Bounty Hunters</b> | Web/API testing techniques, IDOR/BOLA methodologies, reporting templates |
-| <b>🔴 Red Teamers</b> | Advanced AD attacks, cloud exploitation, EDR evasion |
-| <b>🔵 Blue Teamers</b> | Detection engineering, threat hunting, telemetry validation |
-| <b>🔬 Security Researchers</b> | Vulnerability research methodologies, CVE tracking, fuzzing strategies |
-| <b>📚 Students & Beginners</b> | Structured learning path, hands-on commands, certification roadmap |
-
-</div>
+|------|-------------------|
+| **Penetration Testers** | Quick reference for enumeration, exploitation, and privilege escalation |
+| **CTF Players** | Comprehensive command library and methodology guidance |
+| **Bug Bounty Hunters** | Web/API testing techniques, IDOR/BOLA methodologies, reporting templates |
+| **Red Teamers** | Advanced AD attacks, cloud exploitation, EDR evasion |
+| **Blue Teamers** | Detection engineering, threat hunting, telemetry validation |
+| **Security Researchers** | Vulnerability research methodologies, CVE tracking, fuzzing strategies |
+| **Students & Beginners** | Structured learning path, hands-on commands, certification roadmap |
 
 ---
 
@@ -222,28 +213,12 @@ Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducti
 
 Arsenal stands out because it's:
 
-<table align="center">
-  <tr>
-    <td>✅ <b>Research-Driven</b></td>
-    <td>Built from the HackTricks wiki, community research, and real-world engagements</td>
-  </tr>
-  <tr>
-    <td>✅ <b>Actionable</b></td>
-    <td>Every technique comes with practical commands and validation steps</td>
-  </tr>
-  <tr>
-    <td>✅ <b>Structured</b></td>
-    <td>Follows a clear methodology from scope to retest</td>
-  </tr>
-  <tr>
-    <td>✅ <b>Modern</b></td>
-    <td>Covers 2025-2026 vulnerabilities, AI security, cloud, and containers</td>
-  </tr>
-  <tr>
-    <td>✅ <b>Accessible</b></td>
-    <td>Free, open-source, and available in 12 languages</td>
-  </tr>
-</table>
+| ✅ **Research-Driven** | Built from the HackTricks wiki, community research, and real-world engagements |
+|------------------------|-------------------------------------------------------------------------------|
+| ✅ **Actionable**      | Every technique comes with practical commands and validation steps           |
+| ✅ **Structured**      | Follows a clear methodology from scope to retest                            |
+| ✅ **Modern**          | Covers 2025-2026 vulnerabilities, AI security, cloud, and containers        |
+| ✅ **Accessible**      | Free, open-source, and available in 12 languages                            |
 
 ---
 
@@ -258,7 +233,7 @@ Contributions are welcome! Whether it's fixing a typo, adding a new technique, o
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6FFFE0&center=true&vCenter=true&width=600&lines=⭐+Star+the+repo+if+you+find+it+useful!;🐛+Report+issues;💡+Suggest+features;📚+Contribute+knowledge" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=6FFFE0&center=true&vCenter=true&width=600&lines=⭐+Star+the+repo+if+you+find+it+useful!;🐛+Report+issues;💡+Suggest+features;📚+Contribute+knowledge" alt="Typing SVG" />
 </div>
 
 <br>
