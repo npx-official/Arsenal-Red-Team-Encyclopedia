@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=6FFFE0&center=true&vCenter=true&width=700&lines=⚡+Arsenal+%7C+Offensive+Security+Encyclopedia;🔍+250%2B+Techniques+%7C+150%2B+Commands;🌍+12+Languages+Supported;🎯+OSCP+%7C+CTF+%7C+Red+Team+Ready" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=6FFFE0&center=true&vCenter=true&width=700&lines=Arsenal+%7C+Offensive+Security+Encyclopedia;🔍+250%2B+Techniques+%7C+150%2B+Commands;12+Languages+Supported;OSCP+%7C+CTF+%7C+Red+Team+Ready" alt="Typing SVG" />
 </div>
 
 <br>
@@ -193,7 +193,7 @@ Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducti
 
 <p align="center">
   <a href="#recon"><img src="https://img.shields.io/badge/🔍-Reconnaissance-a78bfa?style=for-the-badge"/></a>
-  <a href="#enum"><img src="https://img.shields.io/badge/📡-Enumeration-6fffe0?style-for-the-badge"/></a>
+  <a href="#enum"><img src="https://img.shields.io/badge/📡-Enumeration-6fffe0?style=for-the-badge"/></a>
   <a href="#v20-web-hub"><img src="https://img.shields.io/badge/🌐-Web_Attacks-a78bfa?style=for-the-badge"/></a>
   <a href="#ad-enum"><img src="https://img.shields.io/badge/🔐-Active_Directory-6fffe0?style=for-the-badge"/></a>
 </p>
