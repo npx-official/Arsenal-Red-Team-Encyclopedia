@@ -10,11 +10,9 @@
   <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/blob/main/LICENSE"><img src="https://img.shields.io/badge/📜-MIT_License-6fffe0?style=for-the-badge"/></a>
 </p>
 
-<br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6FFFE0&center=true&vCenter=true&width=500&lines=Offensive+Security+Enthusiast;CTF+Player;Bug+Bounty+Hunter;OSCP+In+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=6FFFE0&center=true&vCenter=true&width=700&lines=⚡+Arsenal+%7C+Offensive+Security+Encyclopedia;🔍+250%2B+Techniques+%7C+150%2B+Commands;🌍+12+Languages+Supported;🎯+OSCP+%7C+CTF+%7C+Red+Team+Ready" alt="Typing SVG" />
 </div>
-
 <br>
 
 ---
