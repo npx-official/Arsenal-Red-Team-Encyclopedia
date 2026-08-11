@@ -1,4 +1,4 @@
-```markdown
+
 # NIGHT PULSE X — Arsenal
 
 **The Ultimate Red Team Knowledge Base**
