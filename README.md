@@ -1,13 +1,22 @@
-# NIGHT PULSE X — Arsenal
+# 🌙 NIGHT PULSE X — Arsenal
 
 > *The Ultimate Red Team Knowledge Base*
 
 <p align="center">
   <a href="https://npx-official.github.io/projects/arsenal"><img src="https://img.shields.io/badge/🌐-Live_Demo-6fffe0?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia"><img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/stargazers"><img src="https://img.shields.io/github/stars/npx-official/Arsenal-Red-Team-Encyclopedia?style=for-the-badge&color=gold"/></a>
+  <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/stargazers"><img src="https://img.shields.io/github/stars/npx-official/Arsenal-Red-Team-Encyclopedia?style=for-the-badge&color=gold&logo=github"/></a>
+  <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/forks"><img src="https://img.shields.io/github/forks/npx-official/Arsenal-Red-Team-Encyclopedia?style=for-the-badge&color=6fffe0&logo=github"/></a>
   <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/blob/main/LICENSE"><img src="https://img.shields.io/badge/📜-MIT_License-6fffe0?style=for-the-badge"/></a>
 </p>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6FFFE0&center=true&vCenter=true&width=600&lines=⚡+Offensive+Security+Encyclopedia;🔍+250%2B+Techniques;💻+150%2B+Commands;🌍+12+Languages+Supported;🎯+OSCP+%7C+CTF+%7C+Red+Team+Ready" alt="Typing SVG" />
+</div>
+
+<br>
 
 ---
 
@@ -15,9 +24,16 @@
 
 **Arsenal** is a comprehensive, research-driven offensive security encyclopedia designed for penetration testing, CTF competitions, red team operations, and defensive validation. It transforms scattered security research into an actionable, structured reference following a repeatable assessment model:
 
-```
-Scope → Reconnaissance → Enumeration → Hypothesis → Validation → Evidence → Remediation → Retest
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/📋-Scope-6fffe0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔍-Recon-a78bfa?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📡-Enumeration-6fffe0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠-Hypothesis-a78bfa?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✅-Validation-6fffe0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📸-Evidence-a78bfa?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔧-Remediation-6fffe0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔄-Retest-a78bfa?style=for-the-badge"/>
+</p>
 
 Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducting an authorized red team engagement, Arsenal provides the foundational knowledge and practical commands you need.
 
@@ -26,9 +42,11 @@ Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducti
 ## 📚 What's Inside
 
 ### 🛠️ Complete Tool Arsenal (2025–2026)
-- Core pentesting tools: Nmap, Metasploit, Burp Suite, SQLmap, John/Hashcat, BloodHound, Impacket, Ligolo-ng, Mimikatz
-- New additions from Kali Linux 2026.1: AdaptixC2, SSTImap, WPProbe, XSStrike
-- AI-powered pentesting tools: PentAGI, RapidPen, Snyk Evo, Specter, T3MP3ST
+| Category | Tools |
+|----------|-------|
+| **Core Pentesting** | Nmap, Metasploit, Burp Suite, SQLmap, John/Hashcat, BloodHound, Impacket, Ligolo-ng, Mimikatz |
+| **Kali Linux 2026.1** | AdaptixC2, SSTImap, WPProbe, XSStrike |
+| **AI-Powered** | PentAGI, RapidPen, Snyk Evo, Specter, T3MP3ST |
 
 ### 🔍 Reconnaissance & OSINT
 - Passive/active recon methodologies
@@ -125,63 +143,76 @@ Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducti
 
 ## 🛠️ Key Features
 
-| Feature | Description |
-|---------|-------------|
-| **Collapsible Sections** | All knowledge modules are toggleable for easy navigation |
-| **Advanced Search** | Global search across all techniques, tools, and commands |
-| **Multi-language Support** | UI available in 12 languages (English, Arabic, French, etc.) |
-| **Interactive Filtering** | Filter content by category (Recon, Web, AD, Cloud, etc.) |
-| **Bookmarks** | Save and organize important sections |
-| **Command Palette** | Quick jump to any section (Ctrl+K) |
-| **Copy-to-Clipboard** | One-click copy for all code blocks and commands |
+<table align="center">
+  <tr>
+    <td align="center"><b>📂</b><br>Collapsible Sections</td>
+    <td align="center"><b>🔍</b><br>Advanced Search</td>
+    <td align="center"><b>🌍</b><br>12 Languages</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎯</b><br>Interactive Filtering</td>
+    <td align="center"><b>📌</b><br>Bookmarks</td>
+    <td align="center"><b>⌨️</b><br>Command Palette (Ctrl+K)</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><b>📋</b><br>Copy-to-Clipboard for All Commands</td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Content Statistics
 
-| Metric | Value |
-|--------|-------|
-| **Techniques** | 250+ |
-| **Commands** | 150+ |
-| **Attack Chains** | 12 |
-| **Knowledge Domains** | 17 |
-| **Languages Supported** | 12 |
-| **Payload Combinations** | ∞ |
+<p align="center">
+  <img src="https://img.shields.io/badge/📖-250%2B_Techniques-6fffe0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻-150%2B_Commands-a78bfa?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔗-12_Attack_Chains-6fffe0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚-17_Knowledge_Domains-a78bfa?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌍-12_Languages-6fffe0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/♾️-Infinite_Payloads-a78bfa?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🎯 Who Is This For?
 
+<div align="center">
+
 | Role | How Arsenal Helps |
-|------|-------------------|
-| **Penetration Testers** | Quick reference for enumeration, exploitation, and privilege escalation |
-| **CTF Players** | Comprehensive command library and methodology guidance |
-| **Bug Bounty Hunters** | Web/API testing techniques, IDOR/BOLA methodologies, reporting templates |
-| **Red Teamers** | Advanced AD attacks, cloud exploitation, EDR evasion |
-| **Blue Teamers** | Detection engineering, threat hunting, telemetry validation |
-| **Security Researchers** | Vulnerability research methodologies, CVE tracking, fuzzing strategies |
-| **Students & Beginners** | Structured learning path, hands-on commands, certification roadmap |
+|:---:|:---|
+| <b>🛡️ Penetration Testers</b> | Quick reference for enumeration, exploitation, and privilege escalation |
+| <b>🏆 CTF Players</b> | Comprehensive command library and methodology guidance |
+| <b>🎯 Bug Bounty Hunters</b> | Web/API testing techniques, IDOR/BOLA methodologies, reporting templates |
+| <b>🔴 Red Teamers</b> | Advanced AD attacks, cloud exploitation, EDR evasion |
+| <b>🔵 Blue Teamers</b> | Detection engineering, threat hunting, telemetry validation |
+| <b>🔬 Security Researchers</b> | Vulnerability research methodologies, CVE tracking, fuzzing strategies |
+| <b>📚 Students & Beginners</b> | Structured learning path, hands-on commands, certification roadmap |
+
+</div>
 
 ---
 
 ## 🚀 Quick Navigation
 
-### Start Here
-- [Assessment Compass](#npx20-overview) – Core methodology and workflow
-- [Discovery Tree](#npx25-attack-tree) – Visual attack surface mapping
-- [Command Center](#npx26-command-center) – Bug bounty and career path
+<p align="center">
+  <a href="#npx20-overview"><img src="https://img.shields.io/badge/📋-Assessment_Compass-6fffe0?style=for-the-badge"/></a>
+  <a href="#npx25-attack-tree"><img src="https://img.shields.io/badge/🌳-Discovery_Tree-a78bfa?style=for-the-badge"/></a>
+  <a href="#npx26-command-center"><img src="https://img.shields.io/badge/⚡-Command_Center-6fffe0?style=for-the-badge"/></a>
+</p>
 
-### Core Domains
-- [Reconnaissance](#recon) – Information gathering and OSINT
-- [Enumeration](#enum) – Service and application mapping
-- [Web Attacks](#v20-web-hub) – Modern web application testing
-- [Active Directory](#ad-enum) – Windows domain security
-- [Linux PrivEsc](#privesc-linux) – Linux privilege escalation
-- [Windows PrivEsc](#privesc-windows) – Windows privilege escalation
-- [Binary Exploitation](#binary) – ROP, heap, and vulnerability research
+<p align="center">
+  <a href="#recon"><img src="https://img.shields.io/badge/🔍-Reconnaissance-a78bfa?style=for-the-badge"/></a>
+  <a href="#enum"><img src="https://img.shields.io/badge/📡-Enumeration-6fffe0?style=for-the-badge"/></a>
+  <a href="#v20-web-hub"><img src="https://img.shields.io/badge/🌐-Web_Attacks-a78bfa?style=for-the-badge"/></a>
+  <a href="#ad-enum"><img src="https://img.shields.io/badge/🔐-Active_Directory-6fffe0?style=for-the-badge"/></a>
+</p>
 
-### Reference
-- [Ports & Services](#ports) – Common port reference
+<p align="center">
+  <a href="#privesc-linux"><img src="https://img.shields.io/badge/🐧-Linux_PrivEsc-a78bfa?style=for-the-badge"/></a>
+  <a href="#privesc-windows"><img src="https://img.shields.io/badge/🪟-Windows_PrivEsc-6fffe0?style=for-the-badge"/></a>
+  <a href="#binary"><img src="https://img.shields.io/badge/⚡-Binary_Exploitation-a78bfa?style=for-the-badge"/></a>
+  <a href="#ports"><img src="https://img.shields.io/badge/📋-Ports_Reference-6fffe0?style=for-the-badge"/></a>
+</p>
 
 ---
 
@@ -191,28 +222,51 @@ Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducti
 
 Arsenal stands out because it's:
 
-✅ **Research-Driven** – Built from the HackTricks wiki, community research, and real-world engagements  
-✅ **Actionable** – Every technique comes with practical commands and validation steps  
-✅ **Structured** – Follows a clear methodology from scope to retest  
-✅ **Modern** – Covers 2025-2026 vulnerabilities, AI security, cloud, and containers  
-✅ **Accessible** – Free, open-source, and available in 12 languages  
+<table align="center">
+  <tr>
+    <td>✅ <b>Research-Driven</b></td>
+    <td>Built from the HackTricks wiki, community research, and real-world engagements</td>
+  </tr>
+  <tr>
+    <td>✅ <b>Actionable</b></td>
+    <td>Every technique comes with practical commands and validation steps</td>
+  </tr>
+  <tr>
+    <td>✅ <b>Structured</b></td>
+    <td>Follows a clear methodology from scope to retest</td>
+  </tr>
+  <tr>
+    <td>✅ <b>Modern</b></td>
+    <td>Covers 2025-2026 vulnerabilities, AI security, cloud, and containers</td>
+  </tr>
+  <tr>
+    <td>✅ <b>Accessible</b></td>
+    <td>Free, open-source, and available in 12 languages</td>
+  </tr>
+</table>
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Whether it's fixing a typo, adding a new technique, or improving the structure, feel free to:
+Contributions are welcome! Whether it's fixing a typo, adding a new technique, or improving the structure:
 
-1. Fork the repository
-2. Make your changes
-3. Submit a pull request
+1. 🍴 Fork the repository
+2. ✏️ Make your changes
+3. 📬 Submit a pull request
 
 ---
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6FFFE0&center=true&vCenter=true&width=600&lines=⭐+Star+the+repo+if+you+find+it+useful!;🐛+Report+issues;💡+Suggest+features;📚+Contribute+knowledge" alt="Typing SVG" />
+</div>
 
-⭐️ **Star the repo if you find it useful!**  
-🐛 **Report issues** | 💡 **Suggest features** | 📚 **Contribute knowledge**
+<br>
+
+<div align="center">
+
+**🌙 NIGHT PULSE X · Arsenal**  
+*Penetration Testing · Security Research · Future Ready*
 
 </div>
 
