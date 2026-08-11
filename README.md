@@ -1,15 +1,19 @@
-
 # NIGHT PULSE X — Arsenal
 
-**The Ultimate Red Team Knowledge Base**
+> *The Ultimate Red Team Knowledge Base*
 
-A comprehensive, research-driven offensive security encyclopedia designed for penetration testing, CTF competitions, red team operations, and defensive validation. This living knowledge base consolidates techniques, methodologies, tools, and vulnerabilities from across the security community into a single structured reference.
+<p align="center">
+  <a href="https://npx-official.github.io/projects/arsenal"><img src="https://img.shields.io/badge/🌐-Live_Demo-6fffe0?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia"><img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/stargazers"><img src="https://img.shields.io/github/stars/npx-official/Arsenal-Red-Team-Encyclopedia?style=for-the-badge&color=gold"/></a>
+  <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/blob/main/LICENSE"><img src="https://img.shields.io/badge/📜-MIT_License-6fffe0?style=for-the-badge"/></a>
+</p>
 
 ---
 
-## 🔍 Overview
+## 🎯 Overview
 
-**Arsenal** is a purpose-built knowledge base that transforms scattered security research into an actionable, structured reference. It follows a repeatable assessment model:
+**Arsenal** is a comprehensive, research-driven offensive security encyclopedia designed for penetration testing, CTF competitions, red team operations, and defensive validation. It transforms scattered security research into an actionable, structured reference following a repeatable assessment model:
 
 ```
 Scope → Reconnaissance → Enumeration → Hypothesis → Validation → Evidence → Remediation → Retest
@@ -21,24 +25,24 @@ Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducti
 
 ## 📚 What's Inside
 
-### 1. **Complete Tool Arsenal (2025–2026)**
+### 🛠️ Complete Tool Arsenal (2025–2026)
 - Core pentesting tools: Nmap, Metasploit, Burp Suite, SQLmap, John/Hashcat, BloodHound, Impacket, Ligolo-ng, Mimikatz
 - New additions from Kali Linux 2026.1: AdaptixC2, SSTImap, WPProbe, XSStrike
 - AI-powered pentesting tools: PentAGI, RapidPen, Snyk Evo, Specter, T3MP3ST
 
-### 2. **Reconnaissance & OSINT**
+### 🔍 Reconnaissance & OSINT
 - Passive/active recon methodologies
 - Subdomain enumeration, DNS mapping, certificate transparency
 - Cloud OSINT (AWS/Azure/GCP asset discovery)
 - Technology fingerprinting, JS reconnaissance, attack-surface mapping
 
-### 3. **Enumeration & Service Discovery**
+### 📡 Enumeration & Service Discovery
 - HTTP/HTTPS, DNS, SMB, LDAP, Kerberos, SSH, SNMP, RDP, WinRM
 - Database enumeration (MySQL, MSSQL, PostgreSQL, Redis)
 - Container and Kubernetes surface mapping
 - API route discovery, GraphQL introspection, WebSocket inventory
 
-### 4. **Web Application & API Security**
+### 🌐 Web Application & API Security
 - SQL/NoSQL injection, XSS, SSTI, Command Injection
 - SSRF, XXE, Deserialization, Prototype Pollution
 - GraphQL security, WebSocket authorization, JWT validation
@@ -46,73 +50,73 @@ Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducti
 - Business logic flaws, race conditions, cache poisoning/deception
 - HTTP/2/3, request smuggling, parser differentials
 
-### 5. **Active Directory & Entra ID**
+### 🔐 Active Directory & Entra ID
 - BloodHound with advanced Cypher queries
 - Kerberos attacks: Kerberoasting, AS-REP Roasting, Pass-the-Ticket, Golden/Silver Tickets
 - DCSync, RBCD, Shadow Credentials, AD CS (ESC1-ESC8)
 - GPO analysis, delegation abuse, LAPS, DPAPI
 - Lateral movement: Pass-the-Hash, WMI, PSExec, WinRM, DCOM
 
-### 6. **Linux Privilege Escalation**
+### 🐧 Linux Privilege Escalation
 - SUID/SGID abuse, Sudo exploitation, capability abuse
 - Kernel exploits (CVE-2025-40271, CVE-2026-43284, and more)
 - Cron jobs, writable files, LD_PRELOAD hijacking
 - Docker/LXC escape techniques
 - Automated enumeration (LinPEAS, pspy)
 
-### 7. **Windows Privilege Escalation**
+### 🪟 Windows Privilege Escalation
 - UAC bypass, SeImpersonate/SeBackup/SeRestore abuse
 - Potato attacks (JuicyPotato, PrintSpoofer, GodPotato)
 - Unquoted service paths, writable service binaries
 - AlwaysInstallElevated, stored credentials
 - Automated enumeration (WinPEAS, PowerUp, Seatbelt)
 
-### 8. **Binary Exploitation & Vulnerability Research**
+### ⚡ Binary Exploitation & Vulnerability Research
 - ROP chain construction, ret2libc, ret2syscall
 - Heap exploitation: TCache poisoning, UAF, House of X
 - Format string attacks, canary bypass
 - Fuzzing strategies, patch diffing, CVE research
 - ASLR, DEP/NX, stack protections, CFI
 
-### 9. **Container & Kubernetes Security**
+### 🐳 Container & Kubernetes Security
 - Docker escape (privileged containers, socket exposure)
 - runc vulnerabilities (CVE-2025-31133, CVE-2025-52565, CVE-2025-52881)
 - Kubernetes RBAC, service account abuse, admission controls
 - Image provenance, registry security, secrets management
 
-### 10. **Cloud Security (AWS/Azure/GCP)**
+### ☁️ Cloud Security (AWS/Azure/GCP)
 - IAM privilege escalation, misconfiguration discovery
 - Metadata service abuse (IMDSv1/v2)
 - S3 bucket enumeration, Azure Storage exposure
 - GCP service account impersonation
 - Cloud logging, incident readiness
 
-### 11. **AI & LLM Security**
+### 🤖 AI & LLM Security
 - Prompt injection, indirect prompt injection
 - RAG security, vector database protection
 - Tool/function calling authorization, agent security
 - Model supply chain, data exfiltration through tools
 - MCP (Model Context Protocol) security
 
-### 12. **Pivoting & Tunneling**
+### 🔀 Pivoting & Tunneling
 - Ligolo-ng advanced tunneling
 - SSH dynamic proxies, port forwarding
 - Chisel SOCKS tunneling, SMB/NTLM relaying
 - Proxychains, ADIDNS poisoning
 
-### 13. **AV/EDR Bypass**
+### 🧬 AV/EDR Bypass
 - AMSI bypass techniques
 - Donut (EXE to shellcode conversion)
 - Reflective injection, unmanaged PowerShell
 - Process injection, memory-only payloads
 
-### 14. **Post-Exploitation**
+### ⏳ Post-Exploitation
 - Shell upgrades (TTY, Python, Socat)
 - Credential dumping (Mimikatz, secretsdump, LSASS)
 - Persistence mechanisms (Linux/Windows)
 - Exfiltration techniques (Netcat, DNS, ICMP, HTTP/S)
 
-### 15. **Reporting & Documentation**
+### 📄 Reporting & Documentation
 - Professional report structure (Executive Summary, Findings, Remediation)
 - Reporting tools: APTRS, OWASP VISTO, PlexTrac
 - Evidence preservation, severity scoring, retest planning
@@ -135,11 +139,14 @@ Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducti
 
 ## 📊 Content Statistics
 
-- **250+** Techniques covered
-- **150+** Ready-to-use commands
-- **12** Attack chains
-- **17** Knowledge domains
-- **∞** Payload combinations
+| Metric | Value |
+|--------|-------|
+| **Techniques** | 250+ |
+| **Commands** | 150+ |
+| **Attack Chains** | 12 |
+| **Knowledge Domains** | 17 |
+| **Languages Supported** | 12 |
+| **Payload Combinations** | ∞ |
 
 ---
 
@@ -175,3 +182,40 @@ Whether you're preparing for an OSCP exam, hunting for bug bounties, or conducti
 
 ### Reference
 - [Ports & Services](#ports) – Common port reference
+
+---
+
+## 🌟 Why Arsenal?
+
+> *"A quality defense requires knowing the offense, we provide security through understanding."*
+
+Arsenal stands out because it's:
+
+✅ **Research-Driven** – Built from the HackTricks wiki, community research, and real-world engagements  
+✅ **Actionable** – Every technique comes with practical commands and validation steps  
+✅ **Structured** – Follows a clear methodology from scope to retest  
+✅ **Modern** – Covers 2025-2026 vulnerabilities, AI security, cloud, and containers  
+✅ **Accessible** – Free, open-source, and available in 12 languages  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Whether it's fixing a typo, adding a new technique, or improving the structure, feel free to:
+
+1. Fork the repository
+2. Make your changes
+3. Submit a pull request
+
+---
+
+<div align="center">
+
+⭐️ **Star the repo if you find it useful!**  
+🐛 **Report issues** | 💡 **Suggest features** | 📚 **Contribute knowledge**
+
+</div>
+
+---
+
+*Part of the NIGHT PULSE X project family*
