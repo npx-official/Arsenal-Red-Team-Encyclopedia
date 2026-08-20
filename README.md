@@ -3,7 +3,7 @@
 > *The Ultimate Red Team Knowledge Base*
 
 <p align="center">
-  <a href="https://npx-official.github.io/projects/arsenal"><img src="https://img.shields.io/badge/🌐-Live_Demo-6fffe0?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://nightpulse-x.vercel.app/#/projects"><img src="https://img.shields.io/badge/🌐-Live_Demo-6fffe0?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia"><img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/stargazers"><img src="https://img.shields.io/github/stars/npx-official/Arsenal-Red-Team-Encyclopedia?style=for-the-badge&color=gold"/></a>
   <a href="https://github.com/npx-official/Arsenal-Red-Team-Encyclopedia/forks"><img src="https://img.shields.io/github/forks/npx-official/Arsenal-Red-Team-Encyclopedia?style=for-the-badge&color=6fffe0"/></a>
